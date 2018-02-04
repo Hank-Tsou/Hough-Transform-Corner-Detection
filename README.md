@@ -16,3 +16,5 @@
 >>> <pre> >> [C:\Users\hank\Desktop\Yueh_Lin_Tsou_lab2\1\c>python 1_c.py]
 
 >>> (d) The program will show the result image
+
+>>> ![1_c](https://user-images.githubusercontent.com/28382639/35773180-81cb5192-08ff-11e8-8307-cc11371d0b9e.jpg)
